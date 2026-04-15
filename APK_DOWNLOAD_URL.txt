@@ -1,0 +1,30 @@
+CommunityFix APK - READY TO DOWNLOAD
+=====================================
+
+✅ BUILD SUCCESSFUL
+
+APK Download URL:
+https://expo.dev/artifacts/eas/uF9qJSRVbqbq3mdwPNmAMU.apk
+
+Build Page (login to expo.dev to see details):
+https://expo.dev/accounts/reddy7989/projects/community-fix/builds/e16fe2ca-d635-4b92-b0a4-2a3c1559a9f9
+
+Build ID: e16fe2ca-d635-4b92-b0a4-2a3c1559a9f9
+Platform: Android
+Status: FINISHED
+
+HOW TO INSTALL ON ANDROID:
+1. Open the APK Download URL above on your Android phone's browser
+2. Download the .apk file
+3. Tap the downloaded file to install
+4. If prompted "Install from unknown sources" → go to Settings → allow it
+5. Install and open CommunityFix!
+
+LOGIN CREDENTIALS:
+- Admin/Official: admin@communityfix.com / Admin@123
+- Residents: Register via the Sign Up screen in the app
+
+IMPORTANT - BACKEND:
+The app connects to: https://communityfix-backend.onrender.com
+You must deploy the backend to Render for the app to work.
+See README.md for backend deployment instructions.

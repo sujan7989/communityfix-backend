@@ -1,0 +1,17 @@
+node_modules/
+.env
+*.log
+.expo/
+android/
+ios/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+.idea/
+*.apk
+*.zip
+push_and_deploy.bat
